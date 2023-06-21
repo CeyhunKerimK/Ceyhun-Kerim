@@ -1,33 +1,15 @@
 ### Hi there I'm Ceyhun 👋
 
-
-<!--
-**crossgate67/crossgate67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="young-man-programmer-working-computer-with-code-screen-student-programming-vector-concept_53562-4999.jpg">
-
 # About me
-Hello, I am a web backend developer and am currently developing the backend with Node JS.
-Previously, I developed an API with Java Spring Boot and a web application with a Python Django module.
+Hello, I am currently a third-year university student studying Computer Systems and Technologies at Trakya University. I have been focusing on software development for approximately 2 years and have been developing web applications and backend software for the past year. During this time, I have worked on various projects using Java, Python, and JavaScript, with a particular emphasis on Spring Boot and Node.js. Personally, I value teamwork, a friendly environment, and I am someone who approaches problems analytically and enjoys learning.
 
 
-<h1>Skills</h1>
+<h1>My Skills</h1>
 <h3>Languages I know and work on</h3>
--JavaScript <br>
--Python <br>
--Java <br>
--C# <br>
+-JavaScript<br>
+-Python<br>
+-Java<br>
+-C#<br>
   
 <h3>Frameworks I know and work on</h3>
 -Node JS<br>
@@ -36,6 +18,4 @@ Previously, I developed an API with Java Spring Boot and a web application with 
 
 <h3>My Github Stats</h3><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crossgate67)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crossgate67&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
